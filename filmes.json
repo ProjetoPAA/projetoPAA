@@ -1,0 +1,9 @@
+[
+    {
+        "titulo": "Matrix",
+        "diretor": ["Lana Wachowski", "Lilly Wachowski"],
+        "atores": ["Keanu Reeves", "Laurence Fishburne"],
+        "ano": 1999,
+        "genero": ["Ficção científica", "Ação"]
+    }
+]
