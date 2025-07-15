@@ -36,23 +36,6 @@
         "sinopse": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper."
     },
     {
-        "titulo": "Iron Man 2",
-        "diretor": [
-            "Jon Favreau"
-        ],
-        "atores": [
-            "Robert Downey Jr.",
-            "Mickey Rourke",
-            "Gwyneth Paltrow"
-        ],
-        "genero": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "ano": "2010",
-        "sinopse": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy."
-    },
-    {
         "titulo": "Thor",
         "diretor": [
             "Kenneth Branagh"
@@ -105,61 +88,6 @@
         "sinopse": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
     },
     {
-        "titulo": "Iron Man 3",
-        "diretor": [
-            "Shane Black"
-        ],
-        "atores": [
-            "Robert Downey Jr.",
-            "Guy Pearce",
-            "Gwyneth Paltrow"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2013",
-        "sinopse": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
-    },
-    {
-        "titulo": "Thor: The Dark World",
-        "diretor": [
-            "Alan Taylor"
-        ],
-        "atores": [
-            "Chris Hemsworth",
-            "Natalie Portman",
-            "Tom Hiddleston"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "ano": "2013",
-        "sinopse": "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster."
-    },
-    {
-        "titulo": "Captain America: The Winter Soldier",
-        "diretor": [
-            "Anthony Russo",
-            "Joe Russo"
-        ],
-        "atores": [
-            "Chris Evans",
-            "Samuel L. Jackson",
-            "Scarlett Johansson"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2014",
-        "sinopse": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier."
-    },
-    {
         "titulo": "Guardians of the Galaxy",
         "diretor": [
             "James Gunn"
@@ -176,24 +104,6 @@
         ],
         "ano": "2014",
         "sinopse": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe."
-    },
-    {
-        "titulo": "Avengers: Age of Ultron",
-        "diretor": [
-            "Joss Whedon"
-        ],
-        "atores": [
-            "Robert Downey Jr.",
-            "Chris Evans",
-            "Mark Ruffalo"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2015",
-        "sinopse": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan."
     },
     {
         "titulo": "Ant-Man",
@@ -214,24 +124,6 @@
         "sinopse": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world."
     },
     {
-        "titulo": "Captain America: Civil War",
-        "diretor": [
-            "Anthony Russo",
-            "Joe Russo"
-        ],
-        "atores": [
-            "Chris Evans",
-            "Robert Downey Jr.",
-            "Scarlett Johansson"
-        ],
-        "genero": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "ano": "2016",
-        "sinopse": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man."
-    },
-    {
         "titulo": "Doctor Strange",
         "diretor": [
             "Scott Derrickson"
@@ -248,24 +140,6 @@
         ],
         "ano": "2016",
         "sinopse": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts."
-    },
-    {
-        "titulo": "Guardians of the Galaxy Vol. 2",
-        "diretor": [
-            "James Gunn"
-        ],
-        "atores": [
-            "Chris Pratt",
-            "Zoe Saldaña",
-            "Dave Bautista"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2017",
-        "sinopse": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father, the ambitious celestial being Ego."
     },
     {
         "titulo": "Spider-Man: Homecoming",
@@ -286,24 +160,6 @@
         "sinopse": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student."
     },
     {
-        "titulo": "Thor: Ragnarok",
-        "diretor": [
-            "Taika Waititi"
-        ],
-        "atores": [
-            "Chris Hemsworth",
-            "Tom Hiddleston",
-            "Cate Blanchett"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2017",
-        "sinopse": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela."
-    },
-    {
         "titulo": "Black Panther",
         "diretor": [
             "Ryan Coogler"
@@ -320,43 +176,6 @@
         ],
         "ano": "2018",
         "sinopse": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
-    },
-    {
-        "titulo": "Avengers: Infinity War",
-        "diretor": [
-            "Anthony Russo",
-            "Joe Russo"
-        ],
-        "atores": [
-            "Robert Downey Jr.",
-            "Chris Hemsworth",
-            "Mark Ruffalo"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2018",
-        "sinopse": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
-    },
-    {
-        "titulo": "Ant-Man and the Wasp",
-        "diretor": [
-            "Peyton Reed"
-        ],
-        "atores": [
-            "Paul Rudd",
-            "Evangeline Lilly",
-            "Michael Peña"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2018",
-        "sinopse": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past."
     },
     {
         "titulo": "Captain Marvel",
@@ -376,43 +195,6 @@
         ],
         "ano": "2019",
         "sinopse": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races."
-    },
-    {
-        "titulo": "Avengers: Endgame",
-        "diretor": [
-            "Anthony Russo",
-            "Joe Russo"
-        ],
-        "atores": [
-            "Robert Downey Jr.",
-            "Chris Evans",
-            "Mark Ruffalo"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2019",
-        "sinopse": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
-    },
-    {
-        "titulo": "Spider-Man: Far from Home",
-        "diretor": [
-            "Jon Watts"
-        ],
-        "atores": [
-            "Tom Holland",
-            "Samuel L. Jackson",
-            "Jake Gyllenhaal"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2019",
-        "sinopse": "Peter Parker, the beloved superhero Spider-Man, faces four destructive elemental monsters while on holiday in Europe. Soon, he receives help from Mysterio, a fellow hero with mysterious origins."
     },
     {
         "titulo": "Black Widow",
@@ -469,114 +251,6 @@
         "sinopse": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
     },
     {
-        "titulo": "Spider-Man: No Way Home",
-        "diretor": [
-            "Jon Watts"
-        ],
-        "atores": [
-            "Tom Holland",
-            "Zendaya",
-            "Benedict Cumberbatch"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "ano": "2021",
-        "sinopse": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear."
-    },
-    {
-        "titulo": "Doctor Strange in the Multiverse of Madness",
-        "diretor": [
-            "Sam Raimi"
-        ],
-        "atores": [
-            "Benedict Cumberbatch",
-            "Elizabeth Olsen",
-            "Chiwetel Ejiofor"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "ano": "2022",
-        "sinopse": "Doctor Strange teams up with a mysterious teenage girl who can travel across multiverses, to battle other-universe versions of himself which threaten to wipe out the multiverse. They seek help from the Scarlet Witch, Wong and others."
-    },
-    {
-        "titulo": "Thor: Love and Thunder",
-        "diretor": [
-            "Taika Waititi"
-        ],
-        "atores": [
-            "Chris Hemsworth",
-            "Natalie Portman",
-            "Christian Bale"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2022",
-        "sinopse": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct."
-    },
-    {
-        "titulo": "Black Panther: Wakanda Forever",
-        "diretor": [
-            "Ryan Coogler"
-        ],
-        "atores": [
-            "Letitia Wright",
-            "Lupita Nyong'o",
-            "Danai Gurira"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Drama"
-        ],
-        "ano": "2022",
-        "sinopse": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa."
-    },
-    {
-        "titulo": "Ant-Man and the Wasp: Quantumania",
-        "diretor": [
-            "Peyton Reed"
-        ],
-        "atores": [
-            "Paul Rudd",
-            "Evangeline Lilly",
-            "Michael Douglas"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2023",
-        "sinopse": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious K..."
-    },
-    {
-        "titulo": "Guardians of the Galaxy Vol. 3",
-        "diretor": [
-            "James Gunn"
-        ],
-        "atores": [
-            "Chris Pratt",
-            "Chukwudi Iwuji",
-            "Bradley Cooper"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2023",
-        "sinopse": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful."
-    },
-    {
         "titulo": "X-Men",
         "diretor": [
             "Bryan Singer"
@@ -611,58 +285,6 @@
         "sinopse": "N/A"
     },
     {
-        "titulo": "X-Men: The Last Stand",
-        "diretor": [
-            "Brett Ratner"
-        ],
-        "atores": [
-            "Patrick Stewart",
-            "Hugh Jackman",
-            "Halle Berry"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2006",
-        "sinopse": "The human government develops a cure for mutations, and Jean Grey becomes a darker uncontrollable persona called the Phoenix who allies with Magneto, causing escalation into an all-out battle for the X-Men."
-    },
-    {
-        "titulo": "X-Men Origins: Wolverine",
-        "diretor": [
-            "Gavin Hood"
-        ],
-        "atores": [
-            "Hugh Jackman",
-            "Liev Schreiber",
-            "Ryan Reynolds"
-        ],
-        "genero": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "ano": "2009",
-        "sinopse": "The early years of James Logan, featuring his rivalry with his brother Victor Creed, his service in the special forces team Weapon X, and his experimentation into the metal-lined mutant Wolverine."
-    },
-    {
-        "titulo": "X-Men: First Class",
-        "diretor": [
-            "Matthew Vaughn"
-        ],
-        "atores": [
-            "James McAvoy",
-            "Michael Fassbender",
-            "Jennifer Lawrence"
-        ],
-        "genero": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "ano": "2011",
-        "sinopse": "In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them."
-    },
-    {
         "titulo": "The Wolverine",
         "diretor": [
             "James Mangold"
@@ -678,24 +300,6 @@
         ],
         "ano": "2013",
         "sinopse": "Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants."
-    },
-    {
-        "titulo": "X-Men: Days of Future Past",
-        "diretor": [
-            "Bryan Singer"
-        ],
-        "atores": [
-            "Patrick Stewart",
-            "Ian McKellen",
-            "Hugh Jackman"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2014",
-        "sinopse": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants."
     },
     {
         "titulo": "Deadpool",
@@ -716,24 +320,6 @@
         "sinopse": "A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks."
     },
     {
-        "titulo": "X-Men: Apocalypse",
-        "diretor": [
-            "Bryan Singer"
-        ],
-        "atores": [
-            "James McAvoy",
-            "Michael Fassbender",
-            "Jennifer Lawrence"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2016",
-        "sinopse": "In the 1980s, the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive by bringing destruction to the world."
-    },
-    {
         "titulo": "Logan",
         "diretor": [
             "James Mangold"
@@ -750,24 +336,6 @@
         ],
         "ano": "2017",
         "sinopse": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety."
-    },
-    {
-        "titulo": "Deadpool 2",
-        "diretor": [
-            "David Leitch"
-        ],
-        "atores": [
-            "Ryan Reynolds",
-            "Josh Brolin",
-            "Morena Baccarin"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2018",
-        "sinopse": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with abilities from the brutal, time-traveling cyborg Cable."
     },
     {
         "titulo": "X-Men: Dark Phoenix",
@@ -806,130 +374,6 @@
         "sinopse": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves."
     },
     {
-        "titulo": "Superman",
-        "diretor": [
-            "Richard Donner"
-        ],
-        "atores": [
-            "Christopher Reeve",
-            "Margot Kidder",
-            "Gene Hackman"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "1978",
-        "sinopse": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero."
-    },
-    {
-        "titulo": "Superman II",
-        "diretor": [
-            "Richard Lester",
-            "Richard Donner"
-        ],
-        "atores": [
-            "Gene Hackman",
-            "Christopher Reeve",
-            "Margot Kidder"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "1980",
-        "sinopse": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth."
-    },
-    {
-        "titulo": "Batman",
-        "diretor": [
-            "Tim Burton"
-        ],
-        "atores": [
-            "Michael Keaton",
-            "Jack Nicholson",
-            "Kim Basinger"
-        ],
-        "genero": [
-            "Action",
-            "Adventure"
-        ],
-        "ano": "1989",
-        "sinopse": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker."
-    },
-    {
-        "titulo": "Batman Returns",
-        "diretor": [
-            "Tim Burton"
-        ],
-        "atores": [
-            "Michael Keaton",
-            "Danny DeVito",
-            "Michelle Pfeiffer"
-        ],
-        "genero": [
-            "Action",
-            "Crime",
-            "Fantasy"
-        ],
-        "ano": "1992",
-        "sinopse": "While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta."
-    },
-    {
-        "titulo": "Batman Forever",
-        "diretor": [
-            "Joel Schumacher"
-        ],
-        "atores": [
-            "Val Kilmer",
-            "Tommy Lee Jones",
-            "Jim Carrey"
-        ],
-        "genero": [
-            "Action",
-            "Adventure"
-        ],
-        "ano": "1995",
-        "sinopse": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin."
-    },
-    {
-        "titulo": "Batman & Robin",
-        "diretor": [
-            "Joel Schumacher"
-        ],
-        "atores": [
-            "Arnold Schwarzenegger",
-            "George Clooney",
-            "Chris O'Donnell"
-        ],
-        "genero": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "ano": "1997",
-        "sinopse": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City."
-    },
-    {
-        "titulo": "Batman Begins",
-        "diretor": [
-            "Christopher Nolan"
-        ],
-        "atores": [
-            "Christian Bale",
-            "Michael Caine",
-            "Ken Watanabe"
-        ],
-        "genero": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "ano": "2005",
-        "sinopse": "After witnessing his parents' death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city."
-    },
-    {
         "titulo": "The Dark Knight",
         "diretor": [
             "Christopher Nolan"
@@ -946,24 +390,6 @@
         ],
         "ano": "2008",
         "sinopse": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness."
-    },
-    {
-        "titulo": "The Dark Knight Rises",
-        "diretor": [
-            "Christopher Nolan"
-        ],
-        "atores": [
-            "Christian Bale",
-            "Tom Hardy",
-            "Anne Hathaway"
-        ],
-        "genero": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "ano": "2012",
-        "sinopse": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again."
     },
     {
         "titulo": "Man of Steel",
@@ -984,24 +410,6 @@
         "sinopse": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth."
     },
     {
-        "titulo": "Batman v Superman: Dawn of Justice",
-        "diretor": [
-            "Zack Snyder"
-        ],
-        "atores": [
-            "Ben Affleck",
-            "Henry Cavill",
-            "Amy Adams"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "2016",
-        "sinopse": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge."
-    },
-    {
         "titulo": "Suicide Squad",
         "diretor": [
             "David Ayer"
@@ -1018,24 +426,6 @@
         ],
         "ano": "2016",
         "sinopse": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse."
-    },
-    {
-        "titulo": "Wonder Woman",
-        "diretor": [
-            "Patty Jenkins"
-        ],
-        "atores": [
-            "Gal Gadot",
-            "Chris Pine",
-            "Robin Wright"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "ano": "2017",
-        "sinopse": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny."
     },
     {
         "titulo": "Justice League",
@@ -1146,42 +536,6 @@
         "sinopse": "Wonder Woman finds herself battling two opponents, Maxwell Lord, a shrewd entrepreneur, and Barbara Minerva, a friend-turned-foe. Meanwhile, she also ends up crossing paths with her love interest."
     },
     {
-        "titulo": "The Suicide Squad",
-        "diretor": [
-            "James Gunn"
-        ],
-        "atores": [
-            "Margot Robbie",
-            "Idris Elba",
-            "John Cena"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2021",
-        "sinopse": "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese."
-    },
-    {
-        "titulo": "Zack Snyder's Justice League",
-        "diretor": [
-            "Zack Snyder"
-        ],
-        "atores": [
-            "Henry Cavill",
-            "Ben Affleck",
-            "Gal Gadot"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "ano": "2021",
-        "sinopse": "Determined to ensure that Superman's ultimate sacrifice wasn't in vain, Bruce Wayne recruits a team of metahumans to protect the world from an approaching threat of catastrophic proportions."
-    },
-    {
         "titulo": "The Batman",
         "diretor": [
             "Matt Reeves"
@@ -1254,42 +608,6 @@
         "sinopse": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future."
     },
     {
-        "titulo": "Hellboy",
-        "diretor": [
-            "Guillermo del Toro"
-        ],
-        "atores": [
-            "Ron Perlman",
-            "Doug Jones",
-            "Selma Blair"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "ano": "2004",
-        "sinopse": "A demon raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness."
-    },
-    {
-        "titulo": "Hellboy II: The Golden Army",
-        "diretor": [
-            "Guillermo del Toro"
-        ],
-        "atores": [
-            "Ron Perlman",
-            "Selma Blair",
-            "Doug Jones"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "ano": "2008",
-        "sinopse": "A prince of the mythical world starts a rebellion against humanity in order to rule the Earth. Hellboy and his team must fight to stop him from locating the all-powerful Golden Army."
-    },
-    {
         "titulo": "Hellboy (2019)",
         "diretor": [
             "N/A"
@@ -1356,42 +674,6 @@
         ],
         "ano": "1997",
         "sinopse": "James, an NYC cop, is hired by Agent K of a secret government agency that monitors extraterrestrial life on Earth. Together, they must recover an item that has been stolen by an intergalactic villain."
-    },
-    {
-        "titulo": "Men in Black II",
-        "diretor": [
-            "Barry Sonnenfeld"
-        ],
-        "atores": [
-            "Tommy Lee Jones",
-            "Will Smith",
-            "Rip Torn"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2002",
-        "sinopse": "Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past."
-    },
-    {
-        "titulo": "E! Online Live from the Red Carpet Men in Black 3",
-        "diretor": [
-            "Rick Tugman"
-        ],
-        "atores": [
-            "Josh Brolin",
-            "Alice Eve",
-            "Tommy Lee Jones",
-            "Jason Kennedy"
-        ],
-        "genero": [
-            "Documentary",
-            "News"
-        ],
-        "ano": "2012",
-        "sinopse": "N/A"
     },
     {
         "titulo": "The Phantom",
@@ -1538,78 +820,6 @@
         "sinopse": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective."
     },
     {
-        "titulo": "Pokémon: The First Movie - Mewtwo Strikes Back",
-        "diretor": [
-            "Kunihiko Yuyama"
-        ],
-        "atores": [
-            "Veronica Taylor",
-            "Rachael Lillis",
-            "Eric Stuart"
-        ],
-        "genero": [
-            "Animation",
-            "Action",
-            "Adventure"
-        ],
-        "ano": "1998",
-        "sinopse": "Scientists genetically create a new Pokémon, Mewtwo, but the results are horrific and disastrous."
-    },
-    {
-        "titulo": "The Power of One: The Pokemon 2000 Movie Special",
-        "diretor": [
-            "Richard Dipirro"
-        ],
-        "atores": [
-            "*NSYNC",
-            "Christina Aguilera",
-            "Alitzah"
-        ],
-        "genero": [
-            "Documentary",
-            "Music"
-        ],
-        "ano": "2000",
-        "sinopse": "A live performance of some Pokemon songs from 'Pokémon The Movie 2000' and also behind the scenes look at the recording of the soundtrack, hosted by Kel Mitchell."
-    },
-    {
-        "titulo": "Pokémon 3 the Movie: Spell of the Unown",
-        "diretor": [
-            "Kunihiko Yuyama"
-        ],
-        "atores": [
-            "Veronica Taylor",
-            "Eric Stuart",
-            "Rica Matsumoto"
-        ],
-        "genero": [
-            "Animation",
-            "Action",
-            "Adventure"
-        ],
-        "ano": "2000",
-        "sinopse": "In the town of Greenfield, a young, lonely girl's dreams and wishes are brought into reality by a collective of reality-warping Pokémon."
-    },
-    {
-        "titulo": "Pokemon 4Ever: Celebi - Voice of the Forest",
-        "diretor": [
-            "Kunihiko Yuyama",
-            "Jim Malone"
-        ],
-        "atores": [
-            "Veronica Taylor",
-            "Rica Matsumoto",
-            "Rachael Lillis"
-        ],
-        "genero": [
-            "Animation",
-            "Action",
-            "Adventure"
-        ],
-        "ano": "2001",
-        "sinopse": "Ash must stop a hunter who forces the mythical Pokémon Celebi to help him destroy a forest."
-    },
-    {
         "titulo": "Dragonball Evolution",
         "diretor": [
             "James Wong"
@@ -1646,42 +856,6 @@
         "sinopse": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home."
     },
     {
-        "titulo": "TMNT",
-        "diretor": [
-            "Kevin Munroe"
-        ],
-        "atores": [
-            "Patrick Stewart",
-            "Mako",
-            "Chris Evans"
-        ],
-        "genero": [
-            "Animation",
-            "Action",
-            "Adventure"
-        ],
-        "ano": "2007",
-        "sinopse": "When the world is threatened by an ancient evil, the Ninja Turtles must reunite and overcome their faults in order to stand against it."
-    },
-    {
-        "titulo": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-        "diretor": [
-            "Dave Green"
-        ],
-        "atores": [
-            "Megan Fox",
-            "Will Arnett",
-            "Tyler Perry"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "ano": "2016",
-        "sinopse": "The Turtles get into another battle with their enemy the Shredder, who has acquired new allies: the mutant thugs Bebop and Rocksteady and the alien being Krang."
-    },
-    {
         "titulo": "Mortal Kombat",
         "diretor": [
             "Simon McQuoid"
@@ -1698,38 +872,6 @@
         ],
         "ano": "2021",
         "sinopse": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe."
-    },
-    {
-        "titulo": "Mortal Kombat: Annihilation",
-        "diretor": [
-            "John R. Leonetti"
-        ],
-        "atores": [
-            "Robin Shou",
-            "Talisa Soto",
-            "James Remar"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "ano": "1997",
-        "sinopse": "A group of martial-arts warriors has only six days to save the Earth from an extra-dimensional invasion."
-    },
-    {
-        "titulo": "Divided by Werewolves - Episode 120: Nobody, Mortal Kombat (2021), Jakob's Wife & Monster Hunter Rise",
-        "diretor": [
-            "N/A"
-        ],
-        "atores": [
-            "N/A"
-        ],
-        "genero": [
-            "N/A"
-        ],
-        "ano": "2021",
-        "sinopse": "N/A"
     },
     {
         "titulo": "Prince of Persia: The Sands of Time",
@@ -1766,24 +908,6 @@
         ],
         "ano": "2016",
         "sinopse": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war."
-    },
-    {
-        "titulo": "Tron",
-        "diretor": [
-            "Steven Lisberger"
-        ],
-        "atores": [
-            "Jeff Bridges",
-            "Bruce Boxleitner",
-            "David Warner"
-        ],
-        "genero": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ano": "1982",
-        "sinopse": "A computer hacker is abducted into a digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program."
     },
     {
         "titulo": "Tron: Legacy",
@@ -1965,83 +1089,5 @@
         ],
         "ano": "2010",
         "sinopse": "Evil genius Megamind finally defeats his do-gooder nemesis, Metro Man, but is left without a purpose in a superhero-free world."
-    },
-    {
-        "titulo": "Spider-Man: Into the Spider-Verse",
-        "diretor": [
-            "Bob Persichetti",
-            "Peter Ramsey",
-            "Rodney Rothman"
-        ],
-        "atores": [
-            "Shameik Moore",
-            "Jake Johnson",
-            "Hailee Steinfeld"
-        ],
-        "genero": [
-            "Animation",
-            "Action",
-            "Adventure"
-        ],
-        "ano": "2018",
-        "sinopse": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
-    },
-    {
-        "titulo": "Spider-Man: Across the Spider-Verse",
-        "diretor": [
-            "Joaquim Dos Santos",
-            "Kemp Powers",
-            "Justin K. Thompson"
-        ],
-        "atores": [
-            "Shameik Moore",
-            "Hailee Steinfeld",
-            "Brian Tyree Henry"
-        ],
-        "genero": [
-            "Animation",
-            "Action",
-            "Adventure"
-        ],
-        "ano": "2023",
-        "sinopse": "Traveling across the multiverse, Miles Morales meets a new team of Spider-People, made up of heroes from different dimensions. But when the heroes clash over how to deal with a new threat, Miles finds himself at a crossroads."
-    },
-    {
-        "titulo": "Batman: Mask of the Phantasm",
-        "diretor": [
-            "Kevin Altieri",
-            "Boyd Kirkland",
-            "Frank Paur"
-        ],
-        "atores": [
-            "Kevin Conroy",
-            "Dana Delany",
-            "Hart Bochner"
-        ],
-        "genero": [
-            "Animation",
-            "Action",
-            "Adventure"
-        ],
-        "ano": "1993",
-        "sinopse": "Batman is wrongly implicated in a series of murders of mob bosses actually committed by a new vigilante assassin."
-    },
-    {
-        "titulo": "Batman: The Killing Joke",
-        "diretor": [
-            "Sam Liu"
-        ],
-        "atores": [
-            "Kevin Conroy",
-            "Mark Hamill",
-            "Tara Strong"
-        ],
-        "genero": [
-            "Animation",
-            "Action",
-            "Crime"
-        ],
-        "ano": "2016",
-        "sinopse": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness."
     }
 ]
